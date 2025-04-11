@@ -2,7 +2,7 @@
 
 ## How to Run:
 * Clone the repo
-* Include the .json file with the recipes (downloaded from recipe1m+)
+* Include the .json file with the recipes (recipes_with_nutritional_info.json -- downloaded from recipe1m+)
 * Run
   ```
   !pip install -r requirements.txt
