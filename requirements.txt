@@ -1,0 +1,29 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.30.0
+sentence-transformers>=2.2.2
+diffusers>=0.19.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
+Pillow>=9.4.0
+
+# Network and graph dependencies
+networkx>=3.0
+faiss-cpu>=1.7.4
+
+# NLP dependencies
+nltk>=3.8.0
+
+# Optional for GPU acceleration
+bitsandbytes>=0.38.0
+accelerate>=0.20.0
+
+# System monitoring
+psutil>=5.9.0
+
+# Optional for improved tokenization
+tokenizers>=0.13.0
